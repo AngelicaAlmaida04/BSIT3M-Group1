@@ -82,7 +82,7 @@
         </div>
         <div class="box">
             <div class="member">
-                <img src="cuano.jpg" alt="marvin">
+                <img src="Cuano.jpg" alt="marvin">
                 <div class="overlay_ko">
                     <div class="title"><?php echo "John Marvin Cuano <br> Role: Real Leader" ?></div>
                     <p class="text"><?php echo "Addicted to the Pot" ?></p>
