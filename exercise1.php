@@ -37,7 +37,7 @@
     <div class="container">
         <div class="box">
             <div class="member">
-                <img src="arlynne.jpg" alt="arlynne.">
+                <img src="Abalain.jpg" alt="arlynne.">
                 <div class="overlay_ko">
                     <div class="title"><?php echo "Arlynne T. Abalain <br> Role: Leader" ?></div>
                     <p class="text"><?php echo "Life, is like a big toe"?></p>
@@ -52,7 +52,7 @@
         </div>
         <div class="box">
             <div class="member">
-                <img src="baby.jpg" alt="angelica">
+                <img src="Almaida.jpg" alt="angelica">
                 <div class="overlay_ko">
                     <div class="title"><?php echo "Angelica D. Almaida <br> Role: Designer" ?></div>
                     <p class="text"><?php echo "No Sense, Makes Sense" ?></p>
@@ -67,7 +67,7 @@
         </div>
         <div class="box">
             <div class="member">
-                <img src="kent.jpg" alt="kentc">
+                <img src="Catimbang.jpg" alt="kentc">
                 <div class="overlay_ko">
                     <div class="title"><?php echo "Kent Miller Catimbang<br> Role: Patutie" ?></div>
                     <p class="text"><?php echo "GRavvvyyy" ?></p>
@@ -97,7 +97,7 @@
         </div>
         <div class="box">
             <div class="member">
-                <img src="jaren.jpg" alt="jaren">
+                <img src="Morante.jpg" alt="jaren">
                 <div class="overlay_ko">
                     <div class="title"><?php echo "Jaren Rockwell Morante <br> Role: Organizer" ?></div>
                     <p class="text"><?php echo "Ayeeeeeee" ?></p>
