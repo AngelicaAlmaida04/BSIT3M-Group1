@@ -212,7 +212,7 @@ function umbrella()
 		<p style="margin-left:30px;color:#223030;"><small>Made by Abalain, Almaida, Catimbang, Cuano & Morante 2024 © Copyright Intended</small></p>
 	</footer>
 
-    <?php
+<?php
     if (file_exists("exercise1.php")) {
         
         $contents = file_get_contents("exercise1.php");
@@ -234,6 +234,8 @@ function umbrella()
     }
 ?>
 
+
+    
 
     
 	</body>
